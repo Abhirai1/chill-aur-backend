@@ -1,1 +1,1 @@
-export const DB_NAME = "chillBackend"
+export const DB_NAME = "your-db-name"
